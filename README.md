@@ -21,14 +21,6 @@ Bu proje, iki farklı yapay zeka modelini kullanarak görsel üretme işlevselli
    - Metin tabanlı bir açıklama girerek görsel oluşturabilirsiniz.
    - Görsel, base64 formatında döner ve Streamlit ile görseli görüntüleyebilirsiniz.
 
-### 2. Streamlit Uygulaması
-
-Bu proje, kullanıcıların görsel üretme işlemlerini kolayca gerçekleştirebileceği bir Streamlit uygulamasıdır. Uygulama, kullanıcıların metin tabanlı açıklamalar girerek görsel üretmelerini sağlar.
-
-#### Özellikler
-
-- **DALL-E 3 Tabı**: Kullanıcıların metin girerek DALL-E 3 ile görsel oluşturmasını sağlar.
-- **Stable Diffusion Tabı**: Kullanıcıların metin girerek Stable Diffusion ile görsel oluşturmasını sağlar.
 
 ### 3. Chatbot
 
