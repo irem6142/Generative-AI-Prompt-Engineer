@@ -31,28 +31,6 @@ Bu proje, Streamlit ile geliştirilmiş bir chatbot uygulamasını içerir. Kull
 - Kullanıcıların metin tabanlı sorularını alır ve yapay zeka tarafından işlenen cevaplar sağlar.
 - Streamlit ile kullanıcı dostu bir arayüz sunar.
 
-## Kurulum
-
-1. Gereksinimleri yükleyin:
-
-    ```bash
-    pip install streamlit openai requests python-dotenv
-    ```
-
-2. `.env` dosyanızda API anahtarlarınızı tanımlayın:
-
-    ```env
-    stability_key=YOUR_STABILITY_API_KEY
-    api_key=YOUR_OPENAI_API_KEY
-    ```
-
-3. Streamlit uygulamasını başlatın:
-
-    ```bash
-    streamlit run app.py
-    ```
-
-
 
 
 
